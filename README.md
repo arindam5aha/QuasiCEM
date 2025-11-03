@@ -14,7 +14,7 @@ This repository implements sampling and optimization routines using the Cross En
 
 ## Usage
 
-See `data_sampler.py` for implementation details and `run_sampling.ipynb` for usage examples.
+See `data_sampler.py` for implementation details
 
 ## Interface Use Case
 
