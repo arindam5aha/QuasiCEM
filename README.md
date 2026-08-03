@@ -19,4 +19,4 @@ See `data_sampler.py` for implementation details
 ## Interface Use Case
 
 For a generic tuning interface example, see:
-[arbok_driver/generic_tunig_interface.py](https://github.com/andncl/arbok_driver/blob/master/arbok_driver/generic_tunig_interface.py)
+[arbok_driver/generic_tunig_interface.py](https://github.com/andncl/arbok_driver/blob/master/arbok_driver/generic_tuning_interface.py)
